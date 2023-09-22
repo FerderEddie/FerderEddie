@@ -17,7 +17,7 @@
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Professional Knowledge:</h3>
 <br/>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
