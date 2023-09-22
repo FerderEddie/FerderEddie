@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, my name is Eddie Ferder</h1>
 <h3 align="center">I'm a Fullstack Web Developer</h3>
 
-<br/>
+<br/><br/>
+
 
 <img align="right" alt="Coding" width="400" src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm94Nmczbmc3aXB6MXVwajRkd3YxNjFtcGJyYzJ6MGVkeG44aTY0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif>
 
