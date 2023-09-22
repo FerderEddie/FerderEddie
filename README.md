@@ -1,7 +1,10 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
 
 Hi 👋, my name is Eddie Ferder
+========================================================================================================================================
+
 I'm a Fullstack Web Developer
+--------------------------
 
 <br/><br/>
 
