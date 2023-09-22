@@ -1,4 +1,4 @@
-![MasterHead](https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
 
 <h1 align="center">Hi 👋, my name is Eddie Ferder</h1>
 <h3 align="center">I'm a Fullstack Web Developer</h3>
