@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
 
-<h1 align="center">Hi 👋, my name is Eddie Ferder</h1>
-<h3 align="center">I'm a Fullstack Web Developer</h3>
+Hi 👋, my name is Eddie Ferder
+I'm a Fullstack Web Developer
 
 <br/><br/>
 
@@ -45,9 +45,4 @@
 
 
 
-
-<h3 align="left">Socials:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eddie ferder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eddie ferder" height="30" width="40" /></a>
-</p>
 
