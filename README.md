@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋🏻, my name is Eddie Ferder</h1>
-<h3 align="center">I'm a Fullstack Web Developer</h3>
+<h2 align="center">I'm a Fullstack Web Developer</h2>
 
 <br/><br/>
 
