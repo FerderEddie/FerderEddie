@@ -36,6 +36,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
   <img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-kkop6eik.png" alt="Jira" width="50" height="50"/>
+  <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="GitHub" width="50" height="50"/>
 </p>
 
 <h3 align="left">Socials:</h3>
