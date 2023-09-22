@@ -15,7 +15,6 @@
 ### 📫 How to reach me **eddi4ferderef@gmail.com**
 
 <br/>
-
 <h3 align="left">Professional Knowledge:</h3>
 
 <br/>
