@@ -6,6 +6,8 @@
 
 <img align="right" alt="Coding" width="320" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm94Nmczbmc3aXB6MXVwajRkd3YxNjFtcGJyYzJ6MGVkeG44aTY0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<br/>
+
 ### 🫱🏻‍🫲🏻 **Looking for a new opportunity as a Fullstack developer**
 
 ### 🧠 I’m currently learning **Typescript and Unit-Testing**
