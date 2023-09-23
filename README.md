@@ -9,7 +9,7 @@
 <h3>🫱🏻‍🫲🏻 <strong>Looking for a new opportunity as a Fullstack developer</strong></h3>
 <h3>🧠 Currently learning <strong>Unit-Testing</strong></h3>
 <h3>💬 Ask me about <strong>MERN Stack</strong></h3>
-<h3>📫 Reach me at: <strong>eddi4ferderef@gmail.com</strong></h3>
+<h3>📫 Reach me at: <a href="mailto:eddi4ferderef@gmail.com"><strong>eddi4ferderef@gmail.com</strong></a></h3>
 
 
 <br/><br/>
