@@ -11,7 +11,8 @@
 <h3>💬 Ask me about <strong>MERN Stack</strong></h3>
 <h3>📫 How to reach me <strong>eddi4ferderef@gmail.com</strong></h3>
 
-<br/>
+<br/><br/>
+
 
 ## 💻 Tech Stack:
 
