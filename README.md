@@ -24,7 +24,7 @@
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/eddieferder">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="90" height="25">
+  <img target="_blank" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="90" height="25">
 </a>
 
 
