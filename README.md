@@ -6,10 +6,10 @@
 
 <img align="right" alt="Coding" width="320" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm94Nmczbmc3aXB6MXVwajRkd3YxNjFtcGJyYzJ6MGVkeG44aTY0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p style="font-size: 10px;">🫱🏻‍🫲🏻 <strong>Looking for a new opportunity as a Fullstack developer</strong></p>
-<p style="font-size: 10px;">🧠 I’m currently learning <strong>Typescript and Unit-Testing</strong></p>
-<p style="font-size: 10px;">💬 Ask me about <strong>MERN Stack</strong></p>
-<p style="font-size: 10px;">📫 How to reach me <strong>eddi4ferderef@gmail.com</strong></p>
+<p style="font-size: 15px;">🫱🏻‍🫲🏻 <strong>Looking for a new opportunity as a Fullstack developer</strong></p>
+<p style="font-size: 15px;">🧠 I’m currently learning <strong>Typescript and Unit-Testing</strong></p>
+<p style="font-size: 15px;">💬 Ask me about <strong>MERN Stack</strong></p>
+<p style="font-size: 15px;">📫 How to reach me <strong>eddi4ferderef@gmail.com</strong></p>
 
 
 
