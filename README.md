@@ -1,7 +1,9 @@
 
-<h1 align="center" color="red">Hi 👋🏻, my name is Eddie Ferder</h1>
-## I'm a Fullstack Web Developer
+<h1 align="center">Hi 👋🏻, my name is Eddie Ferder</h1>
+<h2 align="center">I'm a Fullstack Web Developer</h2>
+
 <br/><br/>
+
 
 <img align="right" alt="Coding" width="320" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm94Nmczbmc3aXB6MXVwajRkd3YxNjFtcGJyYzJ6MGVkeG44aTY0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
