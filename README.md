@@ -1,6 +1,12 @@
 
-<h1 align="center" style="color: white;">Hi 👋🏻, my name is Eddie Ferder</h1>
-<h2 align="center" style="color: white;">I'm a Fullstack Web Developer</h2>
+<style>
+  h1, h2 {
+    color: white !important;
+  }
+</style>
+
+<h1 align="center">Hi 👋🏻, my name is Eddie Ferder</h1>
+<h2 align="center">I'm a Fullstack Web Developer</h2>
 
 <br/><br/>
 
